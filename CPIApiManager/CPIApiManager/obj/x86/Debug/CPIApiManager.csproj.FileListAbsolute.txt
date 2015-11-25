@@ -1,0 +1,5 @@
+C:\Users\kauser\Documents\CPIApiManager\CPIApiManager\CPIApiManager\bin\Debug\CPIApiManager.exe.config
+C:\Users\kauser\Documents\CPIApiManager\CPIApiManager\CPIApiManager\bin\Debug\CPIApiManager.exe
+C:\Users\kauser\Documents\CPIApiManager\CPIApiManager\CPIApiManager\bin\Debug\CPIApiManager.pdb
+C:\Users\kauser\Documents\CPIApiManager\CPIApiManager\CPIApiManager\obj\x86\Debug\CPIApiManager.exe
+C:\Users\kauser\Documents\CPIApiManager\CPIApiManager\CPIApiManager\obj\x86\Debug\CPIApiManager.pdb
